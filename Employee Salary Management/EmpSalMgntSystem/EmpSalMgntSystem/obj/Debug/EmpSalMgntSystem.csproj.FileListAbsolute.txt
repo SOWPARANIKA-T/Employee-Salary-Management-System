@@ -1,0 +1,6 @@
+c:\users\elcot\documents\visual studio 2013\Projects\EmpSalMgntSystem\EmpSalMgntSystem\bin\EmpSalMgntSystem.dll.config
+c:\users\elcot\documents\visual studio 2013\Projects\EmpSalMgntSystem\EmpSalMgntSystem\bin\EmpSalMgntSystem.dll
+c:\users\elcot\documents\visual studio 2013\Projects\EmpSalMgntSystem\EmpSalMgntSystem\bin\EmpSalMgntSystem.pdb
+c:\users\elcot\documents\visual studio 2013\Projects\EmpSalMgntSystem\EmpSalMgntSystem\obj\Debug\EmpSalMgntSystem.csprojResolveAssemblyReference.cache
+c:\users\elcot\documents\visual studio 2013\Projects\EmpSalMgntSystem\EmpSalMgntSystem\obj\Debug\EmpSalMgntSystem.dll
+c:\users\elcot\documents\visual studio 2013\Projects\EmpSalMgntSystem\EmpSalMgntSystem\obj\Debug\EmpSalMgntSystem.pdb
